@@ -1,18 +1,18 @@
 [
   {
-    "package": "proverbs",
-    "oncran": true
-  },
-  {
     "package": "cheatsheet",
     "oncran": true
   },
   {
-    "package": "tidyUSDA",
+    "package": "proverbs",
     "oncran": true
   },
   {
     "package": "schrute",
+    "oncran": true
+  },
+  {
+    "package": "tidyUSDA",
     "oncran": true
   }
 ]
