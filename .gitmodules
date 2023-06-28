@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cheatsheet"]
 	path = cheatsheet
 	url = https://github.com/bradlindblad/cheatsheet
-	shallow = true
-	registered = true
 [submodule "proverbs"]
 	path = proverbs
 	url = https://github.com/bradlindblad/proverbs
-	shallow = true
-	registered = true
 [submodule "schrute"]
 	path = schrute
 	url = https://github.com/bradlindblad/schrute
-	shallow = true
-	registered = true
 [submodule "tidyUSDA"]
 	path = tidyUSDA
 	url = https://github.com/bradlindblad/tidyusda
-	shallow = true
-	registered = true
