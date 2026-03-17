@@ -11,6 +11,3 @@
 [submodule "schrute"]
 	path = schrute
 	url = https://github.com/bradlindblad/schrute
-[submodule "tidyUSDA"]
-	path = tidyUSDA
-	url = https://github.com/bradlindblad/tidyusda
